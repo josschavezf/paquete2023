@@ -93,7 +93,7 @@ Please run this yourself to check for any updates on how to cite
 **paquete2023**.
 
 ``` r
-print(citation('paquete2023'), bibtex = TRUE)
+print(citation("paquete2023"), bibtex = TRUE)
 #> To cite package 'paquete2023' in publications use:
 #> 
 #>   josschavezf (2023). _paquete2023_. doi:10.18129/B9.bioc.paquete2023
